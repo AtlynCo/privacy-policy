@@ -1,7 +1,7 @@
 # Privacy Policy for HideNSeek: The Illustrated Atlas
 
 **Effective Date:** September 10, 2026  
-**Last Updated:** September 22, 2026  
+**Last Updated:** September 22, 2026
 
 Atlyn Co ("we", "our", or "us") is dedicated to protecting your privacy. This Privacy Policy governs your use of the mobile application **HideNSeek: The Illustrated Atlas** ("the App" or "Application") and explains how information is collected, used, and disclosed when you play our game.
 
