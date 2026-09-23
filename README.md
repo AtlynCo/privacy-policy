@@ -1,7 +1,7 @@
 # Privacy Policy for HideNSeek: The Illustrated Atlas
 
 **Effective Date:** September 10, 2026  
-**Last Updated:** September 10, 2026  
+**Last Updated:** September 22, 2026  
 
 Atlyn Co ("we", "our", or "us") is dedicated to protecting your privacy. This Privacy Policy governs your use of the mobile application **HideNSeek: The Illustrated Atlas** ("the App" or "Application") and explains how information is collected, used, and disclosed when you play our game.
 
@@ -13,8 +13,8 @@ Atlyn Co ("we", "our", or "us") is dedicated to protecting your privacy. This Pr
 HideNSeek does not require you to create an account, log in, or provide personal information such as your name, physical address, or phone number to play the game. However, certain device and technical information is collected automatically through our third-party service providers (such as Google AdMob and Google Play Services):
 - **Device Information:** Device model, operating system version, system language, unique device identifiers, and network connection status.
 - **Advertising Identifiers:** Google Advertising ID (GAID / AAID) used for delivering and personalizing advertisements, ad frequency capping, and fraud prevention.
-- **Usage & Interaction Data:** In-game actions (e.g., levels completed, hints used), ad impressions, and ad clicks.
-- **Diagnostic and Performance Data:** Crash logs, frame rate telemetry, and application performance metrics.
+- **Usage & Interaction Data:** Google Mobile Ads may process app launches, ad views, ad clicks, and other interactions with the app or ads. Level completion and hints are saved locally on your device; the app does not operate an account or separate analytics service.
+- **Diagnostic and Performance Data:** The advertising SDK may process app and SDK performance information. The app does not operate a separate crash-reporting or frame-rate telemetry service.
 
 ### B. Information You Provide Directly
 If you contact our support team directly via email, we will receive your email address and any information included in your correspondence, which is used solely to respond to your inquiry.
@@ -33,10 +33,10 @@ HideNSeek uses third-party services that may collect information used to identif
 ## 3. Legal Bases for Processing (EEA / UK Users - GDPR)
 
 If you are a resident of the European Economic Area (EEA) or United Kingdom (UK), we process your data under the following legal bases:
-- **Consent:** Where required by applicable law, we request your affirmative consent before serving personalized advertisements through an IAB TCF v2.2 compliant Consent Management Platform (Google User Messaging Platform).
+- **Consent:** Beginning with version 1.0.12, where required, Google User Messaging Platform presents advertising privacy choices before the app requests ads. Ad requests are only made when the platform indicates they are allowed. The available choices depend on your region and the messages configured for our advertising account. Earlier closed-testing versions did not provide this in-app consent flow.
 - **Legitimate Interests:** To prevent fraud, maintain security, fix crashes, and ensure the proper functioning of the game.
 
-You have the right to access, rectify, or request deletion of your personal data, as well as the right to withdraw consent for personalized advertising at any time through the in-game Settings menu.
+You may contact us at the address below to exercise applicable rights to access or request deletion of data. Where Google User Messaging Platform requires a privacy-options entry point, you can revisit advertising choices through the in-game Settings menu.
 
 ---
 
@@ -69,7 +69,7 @@ We take reasonable technical and administrative measures to protect any informat
 You can control the collection and use of advertising identifiers on your Android device:
 - **Reset Advertising ID:** Go to `Settings > Google > Ads > Reset advertising ID`.
 - **Delete Advertising ID:** Go to `Settings > Google > Ads > Delete advertising ID` to prevent apps from accessing your advertising identifier.
-- **In-App Controls:** Access the **Settings** menu within HideNSeek to review this policy and manage gameplay preferences.
+- **In-App Controls:** Access the **Settings** menu within HideNSeek to review this policy, manage gameplay preferences, and, where required for your region, revisit advertising privacy choices.
 
 ---
 
